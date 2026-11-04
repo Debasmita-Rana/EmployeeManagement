@@ -1,12 +1,12 @@
-#Employee Management Portal
+# Employee Management Portal
 
 The employee management portal is a web-based application designed to manage all employee information.
 
-#Features
+# Features
 - Employee Registration 
 - Employee Search
 
-##Technologies Used
+## Technologies Used
 - Python
 - Flask
 - HTML
@@ -16,7 +16,7 @@ The employee management portal is a web-based application designed to manage all
 - Git
 - pip (Python package installer)
 
-###Installation Steps
+### Installation Steps
 1.Navigate to the project directory:
    cd EmployeeManagement
 2.Install the required dependencies:
