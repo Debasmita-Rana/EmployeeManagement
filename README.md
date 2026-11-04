@@ -3,6 +3,10 @@
 The employee management portal is a web-based application designed to manage all employee information.
 built using GraphQL architecture for efficient data queries.
 It provides employee management functionality.
+=======
+built using REST API architecture with Flask.
+It provides employee management functionality.
+
 #Features
 - Employee Registration 
 - Employee Search
