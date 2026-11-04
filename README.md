@@ -8,5 +8,20 @@ The employee management portal is a web-based application designed to manage all
 
 ##Technologies Used
 - Python
+- Flask
 - HTML
 - Git and Github
+### Prerequisites
+- Python 3.0
+- Git
+- pip (Python package installer)
+
+###Installation Steps
+1.Navigate to the project directory:
+   cd EmployeeManagement
+2.Install the required dependencies:
+   pip install -r requirements.txt
+3.Run the application:
+   python app.py
+
+
