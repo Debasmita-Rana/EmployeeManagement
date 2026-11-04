@@ -1,7 +1,8 @@
 #Employee Management Portal
 
 The employee management portal is a web-based application designed to manage all employee information.
-
+built using GraphQL architecture for efficient data queries.
+It provides employee management functionality.
 #Features
 - Employee Registration 
 - Employee Search
